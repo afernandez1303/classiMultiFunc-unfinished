@@ -2,8 +2,8 @@ Package: classiMultiFunc
 Title: Classification ensemble models for multivariate functional data
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "Amanda",
-           family = "Fernández-Fontelo",
+    person("Amanda",
+           "Fernandez-Fontelo",
            role = c("aut", "cre"),
            email = "amanda.fernandez@uab.cat",
            comment = c(ORCID = "0000-0002-0822-6915"))
